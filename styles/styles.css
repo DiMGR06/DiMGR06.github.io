@@ -1,0 +1,32 @@
+body {
+  margin : 0px;
+  overflow: hidden;
+  }
+
+.button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  position:fixed;
+  width:80px;
+  height:40px;
+  bottom:100px;
+  right:20px;
+  border: 2px solid black;
+  color: black;
+  background-color:#FFBD0B;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50px;
+  cursor: pointer;
+  z-index: 2;
+  transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #bd8f0f;
+}
+
+.button:active {
+    background-color: bd8f0f;
+}
