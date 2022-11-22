@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 22.11.2022 12:13:28
+
+newmtl Material__43
+	Kd 0.500000 0.500000 0.500000
+	Ks 1.000000 1.000000 1.000000
+	Tr 0.000000
+	d 1.000000
+	Tf 1.000000 1.000000 1.000000
+	Pr 0.000000
+	Pm 0.000000
+	Pc 0.000000
+	Pcr 0.000000
+	Ni 1.520000
+	Ke 0.000000 0.000000 0.000000
+	illum 2
+	map_Kd C:\Users\1a2m3\OneDrive\Desktop\Immagine WhatsApp 2022-11-22 ore 11.50.53.jpg
